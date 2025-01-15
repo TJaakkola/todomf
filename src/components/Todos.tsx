@@ -8,6 +8,8 @@ export function Todos() {
 
   const addTodo = (todo: Todo) => {
     setTodos([...todos, todo])
+
+    
   }
 
   const toggleTodo = (id: number) => {
