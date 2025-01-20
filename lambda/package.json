@@ -1,0 +1,10 @@
+{
+  "name": "todo-lambda",
+  "version": "1.0.0",
+  "description": "Todo API Lambda functions",
+  "main": "todo.js",
+  "dependencies": {
+    "aws-sdk": "^2.1174.0",
+    "uuid": "^8.3.2"
+  }
+}
